@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.8",
-    "react-native-config": "git+ssh://git@github.com:maxkomarychev/rn-config-private.git"
+    "react-native-config": "git+ssh://git@github.com:maxkomarychev/react-native-config.git#xcconfig"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",

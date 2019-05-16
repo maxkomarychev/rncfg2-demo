@@ -4853,9 +4853,9 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-"react-native-config@git+ssh://git@github.com:maxkomarychev/rn-config-private.git":
+"react-native-config@git+ssh://git@github.com:maxkomarychev/react-native-config.git#xcconfig":
   version "0.11.7"
-  resolved "git+ssh://git@github.com:maxkomarychev/rn-config-private.git#abaf41b10f98e23b6a0edf74ba23c45e6396a151"
+  resolved "git+ssh://git@github.com:maxkomarychev/react-native-config.git#cefa0aa436841635556bedf306e5339367e16610"
 
 react-native@0.59.8:
   version "0.59.8"
