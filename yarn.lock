@@ -4855,7 +4855,7 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
 
 "react-native-config@git+ssh://git@github.com:maxkomarychev/rn-config-private.git":
   version "0.11.7"
-  resolved "git+ssh://git@github.com:maxkomarychev/rn-config-private.git#0a0331be84ad3187df74fa57e27f340f5dafecf8"
+  resolved "git+ssh://git@github.com:maxkomarychev/rn-config-private.git#abaf41b10f98e23b6a0edf74ba23c45e6396a151"
 
 react-native@0.59.8:
   version "0.59.8"
